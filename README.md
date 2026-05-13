@@ -151,5 +151,17 @@ GeoDrainAI can help:
 This project is developed for educational, research, and hackathon purposes.
 
 ---
+---
+
+## Project Screenshots
+
+### Satellite Map
+![Satellite Map](screenshots/satellite-map.png)
+
+### Flood Heatmap
+![Flood Heatmap](screenshots/flood-heatmap.png)
+
+### Drainage Recommendation
+![Drainage Output](screenshots/drainage-output.png)
 
 If you found this project interesting, feel free to explore and support the repository.
