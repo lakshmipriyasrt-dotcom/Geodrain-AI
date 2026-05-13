@@ -163,5 +163,22 @@ This project is developed for educational, research, and hackathon purposes.
 
 ### Drainage Recommendation
 ![Drainage Output](screenshots/drainage-output.png)
+---
+
+## Project Structure
+
+GeoDrainAI
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── assets
+│   └── architecture.txt
+│
+├── screenshots
+│   ├── satellite-map.png
+│   ├── flood-heatmap.png
+│   └── drainage-output.png
 
 If you found this project interesting, feel free to explore and support the repository.
