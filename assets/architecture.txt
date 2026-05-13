@@ -1,0 +1,11 @@
+GeoDrainAI System Architecture
+
+Satellite Image
+        ↓
+Terrain Analysis
+        ↓
+Flood Risk Detection
+        ↓
+Drainage Recommendation
+        ↓
+Interactive Dashboard
